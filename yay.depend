@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540822849 source:/home/emerald/Documents/MiscAPP/yay/source.cpp
+	<iostream>
+	<vector>
+	<unistd.h>
+	<sys/ioctl.h>
+
